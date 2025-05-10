@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React build directory
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# MongoDB Data
+data/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Next.js build output
+.next/
+
+# Dependency directory for serverless functions (e.g., AWS Lambda, Azure Functions, etc.)
+.serverless/
+
+# Build output from CI/CD tools (e.g., Jenkins, GitLab CI)
+build/
+
+# MacOS-specific files
+*.swp
+
+# Yarn lock file
+yarn.lock
